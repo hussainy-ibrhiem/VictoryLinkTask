@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VictoryLinkTask", "VictoryLinkTask\VictoryLinkTask.csproj", "{CFFD7D93-9C98-4DE1-890A-732EDCF7FCBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingService", "HandlingService\HandlingService.csproj", "{87C357F7-F8BD-445B-83C2-ECDFABE89A6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFFD7D93-9C98-4DE1-890A-732EDCF7FCBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFFD7D93-9C98-4DE1-890A-732EDCF7FCBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFFD7D93-9C98-4DE1-890A-732EDCF7FCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFFD7D93-9C98-4DE1-890A-732EDCF7FCBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87C357F7-F8BD-445B-83C2-ECDFABE89A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C357F7-F8BD-445B-83C2-ECDFABE89A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C357F7-F8BD-445B-83C2-ECDFABE89A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C357F7-F8BD-445B-83C2-ECDFABE89A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37A10ADF-2566-4157-B256-CA57B8855DFA}
+	EndGlobalSection
+EndGlobal
